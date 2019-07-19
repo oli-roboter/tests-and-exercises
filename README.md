@@ -3,7 +3,7 @@ Yobota exercise
 
 GENERAL
 
-- npm install to install all dependencies and npm start to run the app on localhost:300
+- npm install to install all dependencies and npm start to run the app on localhost:3000
 
 - Took much longer than expected to do the exercise due to unfamiliarity with visualisation and material UI libraries.
 
