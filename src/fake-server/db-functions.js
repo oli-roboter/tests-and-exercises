@@ -53,9 +53,7 @@ function sortByNumber(arr, orderBy, order) {
 
 function sortByText(arr, orderBy, order) {
   arr.forEach(item =>
-    item[orderBy] === null
-      ? (item[orderBy] = "")
-      : (item[orderBy] = item[orderBy])
+    item[orderBy] === null ? (item[orderBy] = "") : item[orderBy]
   );
   return arr.sort((a, b) => {
     if (a[orderBy] === b[orderBy]) {
