@@ -7,7 +7,7 @@ GENERAL
 
 - Took much longer than expected to do the exercise due to unfamiliarity with visualisation and material UI libraries.
 
-- Styles are a bit messy as I wanted just wanted a quick fix, rather than a structured CSS architecture
+- Styles are a bit messy as I just wanted a quick fix, rather than a structured CSS architecture
 
 - included setTimeout function into actions to simulate delayed response from a server
 
