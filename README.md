@@ -5,8 +5,6 @@ GENERAL
 
 - npm install to install all dependencies and npm start to run the app on localhost:3000
 
-- Took much longer than expected to do the exercise due to unfamiliarity with visualisation and material UI libraries.
-
 - Styles are a bit messy as I just wanted a quick fix, rather than a structured CSS architecture
 
 - included setTimeout function into actions to simulate delayed response from a server
