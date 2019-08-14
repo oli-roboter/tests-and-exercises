@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# tests-and-exercises
-Tests and exercises done as part of the job application process
-=======
-# graph-and-table
 Yobota exercise
 
 GENERAL
