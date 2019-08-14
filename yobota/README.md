@@ -24,7 +24,3 @@ GRAPHS
 
 - Second graph is just a general analysis of number of people vs year of birth. Again, no big trend to see here.
 
-
-
-
->>>>>>> yobota/master
