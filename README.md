@@ -18,7 +18,7 @@ Brief description of each test:
   - challenge is that the data has empty and null strings which adds complexity for the sorting and displaying
   - created with React (with Redux), material-ui react components for table and React-vis for graphs
   
- - AJW
+- AJW
   - use JSON data provided as the data source to build a searchable table with ability to drill down into detail of sales order
   - added graph on header to display open and closed orders
   - created with React, material-ui react components for table elements and Nivo for graph
