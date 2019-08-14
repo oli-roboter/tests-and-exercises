@@ -10,7 +10,7 @@ GENERAL
 
 TABLE
 
-- Table sorting works (by DOB, Industr and Salary)
+- Table sorting works (by DOB, Industry and Salary)
 - Filtering also works. (by firts and last names) I haven't added autocomplete as the table filters as you type. Would have used: https://material-ui.com/components/autocomplete/
 - For the table inline editing I would have used a library called React-Grid. The link to their editing feature is: https://devexpress.github.io/devextreme-reactive/react/grid/docs/guides/editing/
 
