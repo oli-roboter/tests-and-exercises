@@ -37,7 +37,7 @@ if __name__ == "__main__":
         print(path)
         
 
-'''
+''' comments
   initial get_paths(network, A, F, None)
   it-0 on None to A: get_paths(network, None, F, [A]) => {'B', 'C'} - {'A'} = {'B', 'C'}, start_node == end_node: false 
   it_1 on A->B: get_paths(network, B, F, [A] + [B]) => {'A', 'D', 'E'} - {'A'} = {'D', 'E'}, start_node == end_node: false
